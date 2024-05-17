@@ -5,11 +5,11 @@ This project aims to develop a machine learning model capable of detecting fraud
 
 ## Data Exploration
 ### Distribution of Transaction Amounts
-![Transaction Amount Distribution](visualizations/transaction_amount_distribution.png)
+![Transaction Amount Distribution](visualizations/__results___7_1.png)
 This plot shows the distribution of transaction amounts. Most transactions fall within a specific range, with a few high-value transactions.
 
 ### Count of Fraudulent vs Non-Fraudulent Transactions
-![Fraudulent vs Non-Fraudulent Transactions](visualizations/fraudulent_vs_non_fraudulent.png)
+![Fraudulent vs Non-Fraudulent Transactions](visualizations/__results___8_1.png)
 This plot highlights the imbalance between fraudulent and non-fraudulent transactions, with fraudulent transactions being a small minority.
 
 ## Data Preprocessing
