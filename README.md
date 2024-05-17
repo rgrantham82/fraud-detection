@@ -9,12 +9,12 @@ This project aims to develop a machine learning model capable of detecting fraud
 This plot shows the distribution of transaction amounts. Most transactions fall within a specific range, with a few high-value transactions.
 
 ### Count of Fraudulent vs Non-Fraudulent Transactions
-![Fraudulent vs Non-Fraudulent Transactions](visualizations/__results___8_1.png)
+![Fraudulent vs Non-Fraudulent Transactions](visualizations/__results___8_0.png)
 This plot highlights the imbalance between fraudulent and non-fraudulent transactions, with fraudulent transactions being a small minority.
 
 ## Data Preprocessing
 ### Class Distribution Before and After Oversampling
-![Class Distribution Before and After Oversampling](visualizations/class_distribution_before_after_oversampling.png)
+![Class Distribution Before and After Oversampling](visualizations/__results___10_0.png)
 These plots show the class distribution before and after oversampling. Oversampling helps balance the classes, which is crucial for training an effective model.
 
 ## Model Evaluation
